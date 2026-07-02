@@ -1,0 +1,8 @@
+# Local preview screenshots
+preview-*.png
+final-preview-*.png
+*.zip
+
+# OS/editor files
+.DS_Store
+Thumbs.db
